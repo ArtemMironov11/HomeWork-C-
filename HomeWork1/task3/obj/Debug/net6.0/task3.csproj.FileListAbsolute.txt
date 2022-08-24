@@ -1,0 +1,15 @@
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/bin/Debug/net6.0/task3
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/bin/Debug/net6.0/task3.deps.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/bin/Debug/net6.0/task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/bin/Debug/net6.0/task3.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/refint/task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork1/task3/obj/Debug/net6.0/ref/task3.dll
