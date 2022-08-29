@@ -1,0 +1,15 @@
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/bin/Debug/net6.0/Task4
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/bin/Debug/net6.0/Task4.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork2/Task4/obj/Debug/net6.0/ref/Task4.dll
