@@ -1,0 +1,15 @@
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/bin/Debug/net6.0/Task3
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/bin/Debug/net6.0/Task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/HomeWork3/Task3/obj/Debug/net6.0/ref/Task3.dll
