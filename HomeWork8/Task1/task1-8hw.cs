@@ -40,9 +40,10 @@ for (int i = 0; i < matrix.GetLength(0); i++)
 
 int count = 0;
 int min_string_in_matrix = array [0];
+// Нахождение минимальной суммы
 
-for(int i = 1; i < m; i++)               // Нахождение минимальной суммы
-{
+for(int i = 1; i < m; i++) 
+{              
     if(array[i] < min_string_in_matrix)
     {
         min_string_in_matrix = array[i];
