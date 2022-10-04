@@ -1,0 +1,15 @@
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/bin/Debug/net6.0/ControlHW - LastTask
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/bin/Debug/net6.0/ControlHW - LastTask.deps.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/bin/Debug/net6.0/ControlHW - LastTask.runtimeconfig.json
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/bin/Debug/net6.0/ControlHW - LastTask.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/bin/Debug/net6.0/ControlHW - LastTask.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.csproj.AssemblyReference.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.AssemblyInfoInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.AssemblyInfo.cs
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.csproj.CoreCompileInputs.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/refint/ControlHW - LastTask.dll
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.pdb
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ControlHW - LastTask.genruntimeconfig.cache
+/Users/tatiananikolaeva/Desktop/Artem WorkSpace/C#/ControlHW - LastTask/obj/Debug/net6.0/ref/ControlHW - LastTask.dll
